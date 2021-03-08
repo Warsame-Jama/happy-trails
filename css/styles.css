@@ -1,0 +1,45 @@
+h1  {
+  color: black;
+  text-align: center;
+}
+
+h2  {
+  color: Black;
+  font-style: italic;
+  text-align: center;
+}
+h2.Popular  {
+font-family: inherit;
+color: Purple;
+}
+p.Popular  {
+  font-family: inherit;
+  color: crimson;
+}
+h3.Tropical {
+  font-family: fantasy;
+  text-align: center;
+  font-size: 24px;
+  color: #f7325e
+}
+p.Tropical {
+  font-family: fantasy;
+  color: #7dc410
+}
+h4  {
+  color: maroon;
+  font-size: 18px;
+}
+p  {
+  font-family: Helvetica;
+  font-size: 16px;
+
+}
+ul  {
+  line-height: 40px;
+}
+body {
+  background-color: grey;
+  text-decoration: none;
+  font-style: italic;
+}
